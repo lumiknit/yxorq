@@ -1,2 +1,3 @@
-# yxorp
-Mini size reverse proxy server with petit features
+# yxorq
+
+Mini size reverse proxy server in Rust with petit features!
